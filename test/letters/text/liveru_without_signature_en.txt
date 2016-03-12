@@ -1,0 +1,37 @@
+Hello Igor!
+________________________________
+> From: reply.qa+395fce42-7b0f-4c88-b3b7-f591f75453f6@api.synccloud.com 
+> To: i.zuev@live.ru 
+> Date: Fri, 18 Dec 2015 15:54:46 +0000 
+> Subject: ТЕст [SyncCloud T#4828] 
+> 
+> [https://dub130.mail.live.com/Handlers/ImageProxy.mvc?bicild=&canary=azeHRwivnbWtWUYDFgCeO0yFHmJCUxnLGtIjxlwRzco%3d0&url=http%3a%2f%2fstatic.synccloud.com%2fletters%2fimages%2fLogo.jpg] 
+> 
+> When replying to this mail, type your text above this line 
+> 
+> Самый 
+> Главный<mailto:%D0%A1%D0%B0%D0%BC%D1%8B%D0%B9%20%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9<reply.qa+395fce42-7b0f-4c88-b3b7-f591f75453f6@api.synccloud.com>,%D0%A1%D0%B0%D0%BC%D1%8B%D0%B9%20%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9<Synctest030@synccloud.com>?subject=%D0%A2%D0%95%D1%81%D1%82%20%5BSyncCloud%20T%234828%5D>18 
+> дек 15:54 
+> [https://dub130.mail.live.com/Handlers/ImageProxy.mvc?bicild=&canary=azeHRwivnbWtWUYDFgCeO0yFHmJCUxnLGtIjxlwRzco%3d0&url=http%3a%2f%2fs3-eu-west-1.amazonaws.com%2fsynccloud-test-avatar%2fm%2f685c3b515a6c4356b526c3c0f219e8f4.jpg]<mailto:%D0%A1%D0%B0%D0%BC%D1%8B%D0%B9%20%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9<reply.qa+395fce42-7b0f-4c88-b3b7-f591f75453f6@api.synccloud.com>,%D0%A1%D0%B0%D0%BC%D1%8B%D0%B9%20%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9<Synctest030@synccloud.com>?subject=%D0%A2%D0%95%D1%81%D1%82%20%5BSyncCloud%20T%234828%5D> 
+> dfgsdfg 
+> 
+> 
+> [https://dub130.mail.live.com/Handlers/ImageProxy.mvc?bicild=&canary=azeHRwivnbWtWUYDFgCeO0yFHmJCUxnLGtIjxlwRzco%3d0&url=http%3a%2f%2fs3-eu-west-1.amazonaws.com%2fsynccloud-test-avatar%2fm%2f685c3b515a6c4356b526c3c0f219e8f4.jpg]<mailto:%D0%A1%D0%B0%D0%BC%D1%8B%D0%B9%20%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9<reply.qa+395fce42-7b0f-4c88-b3b7-f591f75453f6@api.synccloud.com>,%D0%A1%D0%B0%D0%BC%D1%8B%D0%B9%20%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9<Synctest030@synccloud.com>?subject=%D0%A2%D0%95%D1%81%D1%82%20%5BSyncCloud%20T%234828%5D> 
+> создал задачу 
+> 
+> 
+> 
+> 
+> ПЕРЕЙТИ К ЗАДАЧЕ<http://staging.frontend.qa.synccloud.co/tasks#full-4828> 
+> 
+> 
+> 
+> Пожалуйста, ответьте на это письмо, чтобы отправить комментарий 
+> Успешного бизнеса! 
+> Команда SyncCloud 
+> synccloud.com 
+> support@synccloud.com<mailto:support@synccloud.com> 
+> +7 (495) 663-72-24 
+> Москва, Потаповский переулок, д.5 стр.2 
+> 
+> 
