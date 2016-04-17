@@ -1,10 +1,10 @@
 import {nodeType} from '../node-type';
 
-export class StripImgHandler {
+export class StripStyleHandler {
     //noinspection JSMethodCanBeStatic
     filter(node) {
         return node.nodeType === nodeType.ELEMENT_NODE
-            && node.tagName === 'IMG';
+            && node.tagName === 'STYLE';
     }
 
     //noinspection JSMethodCanBeStatic

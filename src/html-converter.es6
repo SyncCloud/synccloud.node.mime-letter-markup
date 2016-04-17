@@ -3,8 +3,8 @@ import jsdom from 'jsdom';
 import {Deferred} from '@synccloud/utils';
 import {escape} from './escape';
 import {Markup} from './markup';
-import {BlockHandler, BrHandler, InlineHandler, ParagraphHandler,
-        StripImgHandler, StrongHandler, TextHandler} from './handlers';
+import {BlockHandler, BrHandler, InlineHandler, ParagraphHandler, StripHeadHandler,
+        StripImgHandler, StripStyleHandler, StrongHandler, TextHandler} from './handlers';
 
 const despaceRx = /\s+/g;
 const descapeWsRx = new RegExp(escToRx(escape.ws), 'g');

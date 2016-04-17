@@ -3,5 +3,7 @@ export * from './br-handler';
 export * from './inline-handler';
 export * from './paragraph-handler';
 export * from './strip-blockquote-handler';
+export * from './strip-head-handler';
 export * from './strip-img-handler';
+export * from './strip-style-handler';
 export * from './text-handler';
