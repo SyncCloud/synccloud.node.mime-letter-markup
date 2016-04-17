@@ -4,7 +4,7 @@ import {Deferred} from '@synccloud/utils';
 import {escape} from './escape';
 import {Markup} from './markup';
 import {BlockHandler, BrHandler, InlineHandler, ParagraphHandler, StripHeadHandler,
-        StripImgHandler, StripStyleHandler, StrongHandler, TextHandler} from './handlers';
+        StripImgHandler, StripScriptHandler, StripStyleHandler, StrongHandler, TextHandler} from './handlers';
 
 const despaceRx = /\s+/g;
 const descapeWsRx = new RegExp(escToRx(escape.ws), 'g');
@@ -24,7 +24,10 @@ export default class HtmlConverter {
         options.handlers = defaultArray(
             [], options.handlers, [
                 new TextHandler(),
+                new StripHeadHandler(),
                 new StripImgHandler(),
+                new StripScriptHandler(),
+                new StripStyleHandler(),
                 new BrHandler(),
                 new ParagraphHandler(),
                 new InlineHandler(),
