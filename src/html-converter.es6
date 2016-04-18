@@ -23,12 +23,12 @@ export default class HtmlConverter {
         const options = _.merge({}, this._options);
         options.handlers = defaultArray(
             [], options.handlers, [
-                new TextHandler(),
                 new StripHeadHandler(),
                 new StripImgHandler(),
                 new StripScriptHandler(),
                 new StripStyleHandler(),
                 new BrHandler(),
+                new TextHandler(),
                 new AnchorHandler(),
                 new ParagraphHandler(),
                 new InlineHandler(),
