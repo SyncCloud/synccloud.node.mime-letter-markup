@@ -1,3 +1,4 @@
+export * from './anchor-handler';
 export * from './block-handler';
 export * from './br-handler';
 export * from './inline-handler';

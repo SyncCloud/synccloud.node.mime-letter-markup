@@ -3,7 +3,7 @@ import jsdom from 'jsdom';
 import {Deferred} from '@synccloud/utils';
 import {escape} from './escape';
 import {Markup} from './markup';
-import {BlockHandler, BrHandler, InlineHandler, ParagraphHandler, StripHeadHandler,
+import {AnchorHandler, BlockHandler, BrHandler, InlineHandler, ParagraphHandler, StripHeadHandler,
         StripImgHandler, StripScriptHandler, StripStyleHandler, StrongHandler, TextHandler} from './handlers';
 
 const despaceRx = /\s+/g;
@@ -29,6 +29,7 @@ export default class HtmlConverter {
                 new StripScriptHandler(),
                 new StripStyleHandler(),
                 new BrHandler(),
+                new AnchorHandler(),
                 new ParagraphHandler(),
                 new InlineHandler(),
                 new BlockHandler()
