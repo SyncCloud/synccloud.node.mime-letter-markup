@@ -11,6 +11,6 @@ export class AnchorHandler {
 
     //noinspection JSMethodCanBeStatic
     handle(parent, node) {
-        return new InlineNode({tag: node.tagName, href: node.href});
+        return new AnchorNode({tag: node.tagName, href: node.href});
     }
 }
