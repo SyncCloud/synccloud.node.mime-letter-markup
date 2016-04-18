@@ -1,5 +1,6 @@
 import {escape} from '../escape';
 import {Node} from './node';
+import {TextNode} from './text-node';
 
 export class InlineNode extends Node {
     constructor({tag, prefix, affix} = {}) {
