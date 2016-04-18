@@ -57,7 +57,11 @@ export default class HtmlConverter {
                             const body = document.body;
                             const node = recurse(body).simplify();
 
+                            console.log('node:', node);
+
                             const code = descape(node.text.replace(despaceRx, ' ')) || '';
+
+                            console.log('code:', code);
 
                             //noinspection UnnecessaryLocalVariableJS
                             const markup = new Markup(code, {source: html});
