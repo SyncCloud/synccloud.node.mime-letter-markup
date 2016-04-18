@@ -10,8 +10,10 @@ export class AnchorNode extends InlineNode {
     simplify() {
         const result = super.simplify();
         if (this.href) {
-            result.children.push(
-                new TextNode(`[${this.href}]`));
+            result.children.splice(0, 0, ['[']);
+            result.children.push('](');
+            result.children.push(this.href);
+            result.children.push(')');
         }
         return result;
     }
